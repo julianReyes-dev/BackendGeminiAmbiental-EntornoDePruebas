@@ -82,7 +82,7 @@ El servidor estará disponible en `http://localhost:8080`.
 
 -----
 
-## 🧪 Ejecución del Plan de Pruebas
+## Ejecución del Plan de Pruebas
 
 Este repositorio está diseñado para ejecutar todos los niveles de prueba definidos en el plan `PMP-GA-2025`.
 
